@@ -1,34 +1,19 @@
-
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
-<H3>EX. NO.4</H3>
-<H3>DATE:</H3>
-<H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
-<H3>Aim:</H3>
+# EX-04 Implementation of MLP with Backpropagation for Multiclassification</H1>
+### Aim:
 To implement a Multilayer Perceptron for Multi classification
-<H3>Theory</H3>
-
+### Theory:
 A multilayer perceptron (MLP) is a feedforward artificial neural network that generates a set of outputs from a set of inputs. An MLP is characterized by several layers of input nodes connected as a directed graph between the input and output layers. MLP uses back propagation for training the network. MLP is a deep learning method.
 A multilayer perceptron is a neural network connecting multiple layers in a directed graph, which means that the signal path through the nodes only goes one way. Each node, apart from the input nodes, has a nonlinear activation function. An MLP uses backpropagation as a supervised learning technique.
 MLP is widely used for solving problems that require supervised learning as well as research into computational neuroscience and parallel distributed processing. Applications include speech recognition, image recognition and machine translation.
- 
-MLP has the following features:
-
-Ø  Adjusts the synaptic weights based on Error Correction Rule
-
-Ø  Adopts LMS
-
-Ø  possess Backpropagation algorithm for recurrent propagation of error
-
-Ø  Consists of two passes
-
-  	(i)Feed Forward pass
-	         (ii)Backward pass
-           
-Ø  Learning process –backpropagation
-
-Ø  Computationally efficient method
-
+MLP has the following features:<br>
+Ø  Adjusts the synaptic weights based on Error Correction Rule<br>
+Ø  Adopts LMS<br>
+Ø  possess Backpropagation algorithm for recurrent propagation of error<br>
+Ø  Consists of two passes<br>
+  	(i)Feed Forward pass<br>
+	         (ii)Backward pass<br>     
+Ø  Learning process –backpropagation<br>
+Ø  Computationally efficient method<br>
 ![image 10](https://user-images.githubusercontent.com/112920679/198804559-5b28cbc4-d8f4-4074-804b-2ebc82d9eb4a.jpg)
 
 3 Distinctive Characteristics of MLP:
