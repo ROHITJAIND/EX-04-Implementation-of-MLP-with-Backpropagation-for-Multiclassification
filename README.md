@@ -1,6 +1,6 @@
 # EX-04 Implementation of MLP with Backpropagation for Multiclassification</H1>
 ### Aim: &emsp;
-To implement a Multilayer Perceptron for Multi classification &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;**DATE:**
+To implement a Multilayer Perceptron for Multi classification &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;**DATE:25.04.2024**
 ### Theory:
 A multilayer perceptron (MLP) is a feedforward artificial neural network that generates a set of outputs from a set of inputs. An MLP is characterized by several layers of input nodes connected as a directed graph between the input and output layers. MLP uses back propagation for training the network. MLP is a deep learning method.
 A multilayer perceptron is a neural network connecting multiple layers in a directed graph, which means that the signal path through the nodes only goes one way. Each node, apart from the input nodes, has a nonlinear activation function. An MLP uses backpropagation as a supervised learning technique.
